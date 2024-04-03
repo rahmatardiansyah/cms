@@ -5,7 +5,7 @@ export default config({
         kind: "github",
         repo: {
             owner: "rahmatardiansyah",
-            name: "test",
+            name: "cms",
         },
     },
     collections: {
